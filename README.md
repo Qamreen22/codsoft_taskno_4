@@ -12,7 +12,7 @@ The objective of this task was to create a visually appealing and user-friendly 
 
 ### Design Snapshot
 
-![E-Commerce Website](path/to/ecommerce_website.png)
+![E-Commerce Website](./E-Commerce%20Website.png)
 
 The image above provides a snapshot of the E-Commerce website design. It showcases the layout, product display, and overall visual elements incorporated into the website.
 
