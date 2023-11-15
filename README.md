@@ -21,7 +21,7 @@ The image above provides a snapshot of the E-Commerce website design. It showcas
 To explore the completed E-Commerce website design:
 
 1. **View the Image:** Check the image in the repository to get a quick overview of the design.
-2. **Figma link:** Check out the final prototype here: [link]((https://lnkd.in/gpS9kZU9)
+2. **Figma link:** Check out the final prototype here: [link](https://lnkd.in/gpS9kZU9)
 3. **LinkedIn post:** Check out the video here: [link](https://www.linkedin.com/posts/qamreen-2481b4239_codsoftinternship-webdesign-codesoft-activity-7130420980023259136-l8mt?utm_source=share&utm_medium=member_desktop)
 
 ## Feedback and Improvements
